@@ -6,6 +6,7 @@ It uses Google gemini-pro-vision as the LLM model, to generate the text
 ## Concepts covered in building this app:
 - Understand Gemini Pro Vision Model
 - How to use Gemini Pro Vision Model
+- Based on prompt input generate text describing the inage
 
 ## Tools and Technologies Used:
 - Google Makersuite API for Gemini Model API KEY
